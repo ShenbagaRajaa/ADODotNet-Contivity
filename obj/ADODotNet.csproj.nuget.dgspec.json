@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.NetCoreee\\project1\\ADODotNet\\ADODotNet.csproj": {}
+    "D:\\.NetCoreee\\ADODotNet\\ADODotNet.csproj": {}
   },
   "projects": {
-    "D:\\.NetCoreee\\project1\\ADODotNet\\ADODotNet.csproj": {
+    "D:\\.NetCoreee\\ADODotNet\\ADODotNet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.NetCoreee\\project1\\ADODotNet\\ADODotNet.csproj",
+        "projectUniqueName": "D:\\.NetCoreee\\ADODotNet\\ADODotNet.csproj",
         "projectName": "ADODotNet",
-        "projectPath": "D:\\.NetCoreee\\project1\\ADODotNet\\ADODotNet.csproj",
+        "projectPath": "D:\\.NetCoreee\\ADODotNet\\ADODotNet.csproj",
         "packagesPath": "C:\\Users\\SHENBAGARAJ K\\.nuget\\packages\\",
-        "outputPath": "D:\\.NetCoreee\\project1\\ADODotNet\\obj\\",
+        "outputPath": "D:\\.NetCoreee\\ADODotNet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SHENBAGARAJ K\\AppData\\Roaming\\NuGet\\NuGet.Config"
